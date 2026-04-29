@@ -1,0 +1,11 @@
+{
+  "topics": [
+    "AI agents",
+    "LLM releases",
+    "robotics",
+    "AI infrastructure"
+  ],
+  "output": {
+    "frequency": "weekly"
+  }
+}

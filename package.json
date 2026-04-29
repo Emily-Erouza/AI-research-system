@@ -1,0 +1,22 @@
+{
+  "name": "hermes-research-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.15.2",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "fs-extra": "^11.3.4",
+    "markdown-pdf": "^11.0.0",
+    "node-cron": "^4.2.1",
+    "rss-parser": "^3.13.0"
+  }
+}
