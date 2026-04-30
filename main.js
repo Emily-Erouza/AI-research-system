@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 const runPipeline = require("./pipeline");
 const startScheduler = require("./scheduler");
 

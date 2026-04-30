@@ -17,6 +17,7 @@
     "fs-extra": "^11.3.4",
     "markdown-pdf": "^11.0.0",
     "node-cron": "^4.2.1",
+    "nodemailer": "^8.0.7",
     "rss-parser": "^3.13.0"
   }
 }
